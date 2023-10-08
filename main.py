@@ -4,7 +4,6 @@ import os
 
 file_directory = 'C:\\Users\\jacob\\Desktop\\test\\'
 file_names = os.listdir(file_directory)
-pdf1 = ''
 
 
 def merge_pdfs():
